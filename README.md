@@ -44,6 +44,8 @@ mehulsinha73:~$ echo $CONTACT_INFO
 endpoints:
   linkedin: https://www.linkedin.com/in/mehulsinha73
 connection_status: "READY_TO_CONNECT"
+
+mehulsinha73:~$ exit
 ```
 
     
