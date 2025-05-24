@@ -47,5 +47,3 @@ connection_status: "READY_TO_CONNECT"
 
 mehulsinha73:~$ exit
 ```
-
-    
