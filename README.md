@@ -12,9 +12,9 @@ about_me:
   timezone: UTC+5:30 🕠
 
   current_focus:
-    building: "Interesting little side projects"
-    learning: "Rust"
-    reading: "Clean Architecture"
+    building: Interesting little side projects
+    learning: Rust
+    reading: Clean Architecture
     
   interests: [AI/ML, Reinforcement Learning, Data Science, Backend Development]
   fun_fact: "I am probably listening to rock music 🎸 right now"
@@ -43,7 +43,7 @@ service_status:
 mehulsinha73:~$ echo $CONTACT_INFO
 endpoints:
   linkedin: https://www.linkedin.com/in/mehulsinha73
-connection_status: "READY_TO_CONNECT"
+connection_status: READY_TO_CONNECT
 
 mehulsinha73:~$ exit
 ```
